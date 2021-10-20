@@ -1,0 +1,21 @@
+.bg {
+    background-color: black;
+    background-size: cover;
+    
+}
+.bgcont {
+    background-color: black;
+    background-size: cover;
+}
+p {
+    color: white;
+}
+h1 {
+    color: white;
+}
+div span {
+    color: white;
+}
+a {
+    color: red;
+}
